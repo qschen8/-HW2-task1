@@ -32,4 +32,4 @@ tensorboard --logdir hw1/best_param/log
 ```
 
 ## Model weights download
-[百度网盘]()
+[百度网盘](https://pan.baidu.com/s/1X36pC0MBamGYEdwDzDy53w?pwd=239f)
